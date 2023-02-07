@@ -28,3 +28,7 @@ Cambios:
 * c05b48a (origin/v0.2) Nueva rama v0.2
 * ca7eb9a (origin/main) gitignore; 1.txt creados
 * 090f833 Commit inicial
+| NOMBRE | GITHUB | 
+| ------ | ------ |
+|        |        |
+|        |        |
