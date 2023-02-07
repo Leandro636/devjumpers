@@ -31,5 +31,6 @@ Cambios:
 
 | NOMBRE | GITHUB | 
 | ------ | ------ |
-| Ivan       | https://github.com/ivandelaparte       |
-| Arrmando       | https://github.com/ArmaTQ       |
+| Ivan       | https://github.com/ivandelaparte |
+| Arrmando       | https://github.com/ArmaTQ  |
+| Leandro | https://github.com/leandro-cuevas |
