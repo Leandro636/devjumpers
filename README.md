@@ -9,17 +9,8 @@ Paso a paso, Ejercitación final
 8) Con el comando echo "Hola" >1.txt añado texto al archivo, y lo comiteo. 
 9) Con git checkout regreso a la rama v0.2 y repito el proceso para añadir "Adios". 
 10) Git merge v0.2 desde la rama main, y me encuentro con el conflicto.
-
-<<<<<<< HEAD
-Hola
-=======
-Adios
->>>>>>> v0.2
-
 Reviso con git branch --merged para ver las ramas fusionadas (main), y con git branch --no-merged (v0.2) para revisar las que no se fusionaron.
-
 11) Arreglo el conflicto con el bloc de notas, y con git add . y commit guardo los cambios y merge en main para que se guarde. Reviso con git branch --merged y --no-merged si la fusion fue correcta. 
-
 12) Con git branch -D v0.2 elimino la rama en la estuve trabajando. 
 
 Cambios: 
