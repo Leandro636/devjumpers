@@ -1,4 +1,5 @@
 Paso a paso, Ejercitación final
+
 1) En primer lugar cree el repositorio en GitHub. Copiada la ruta, utilize Git clone para bajarlo a mi repositorio local. 
 2) Ingrese a la carpeta desde mi repositorio, con cd devjumpers; Cree el archivo README.md utilizando el comando touch README; Añadi los cambios con git add . y realizé el primer commit "commit inicial"; Por último, subí los cambios al repositorio remoto con git push.
 3) Cree el archivo llamado "privado.txt" utilizando touch, y mkdir "privada" para crear la carpeta; también cree el archivo .gitignore y dentro de él escribí las rutas a los archivos que quería ocultar, la carpeta privada, y "privado.txt" en este caso.
